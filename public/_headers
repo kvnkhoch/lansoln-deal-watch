@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: frame-ancestors https://lansoln.com https://www.lansoln.com
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+/deals.json
+  Cache-Control: no-store

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-09T20:00:00+08:00",
+  "deals": [
+    {
+      "id": "EXAMPLE-01",
+      "industry": "Logistics",
+      "title_en": "Example: regional logistics operator",
+      "title_zh": "示例：区域物流企业",
+      "price": "S$3.2m",
+      "revenue": "S$5.8m",
+      "ebitda": "S$620k",
+      "angle_en": "Potential fit for a buyer seeking Singapore-led distribution into ASEAN.",
+      "angle_zh": "适合考虑以新加坡为基地拓展东盟配送网络的买家。",
+      "checked_at": "2026-10-09T20:00:00+08:00"
+    },
+    {
+      "id": "EXAMPLE-02",
+      "industry": "Manufacturing",
+      "title_en": "Example: precision engineering company",
+      "title_zh": "示例：精密工程企业",
+      "price": "S$4.5m",
+      "revenue": "Not disclosed",
+      "ebitda": "Not disclosed",
+      "angle_en": "Potential fit for a strategic buyer seeking technical capability and customer access.",
+      "angle_zh": "可供希望拓展技术能力与客户网络的战略买家研究。",
+      "checked_at": "2026-10-09T20:00:00+08:00"
+    },
+    {
+      "id": "EXAMPLE-03",
+      "industry": "Business services",
+      "title_en": "Example: recurring corporate services",
+      "title_zh": "示例：持续性企业服务",
+      "price": "Not disclosed",
+      "revenue": "S$1.2m",
+      "ebitda": "S$240k",
+      "angle_en": "Potential fit for a buyer seeking a platform for ongoing business services.",
+      "angle_zh": "可供希望建立持续性企业服务平台的买家研究。",
+      "checked_at": "2026-10-09T20:00:00+08:00"
+    }
+  ]
+}
