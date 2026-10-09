@@ -1,1 +1,54 @@
-{"schema_version":1,"updated_at":null,"deals":[]}
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-09T13:13:10Z",
+  "deals": [
+    {
+      "id": "SG-DW-001",
+      "industry": "Logistics & warehousing",
+      "title_en": "Established logistics and storage operator",
+      "title_zh": "成熟物流与仓储企业",
+      "price": "S$11 million",
+      "revenue": "S$10.8 million (FY2023)",
+      "ebitda": "Not disclosed",
+      "angle_en": "Potential Singapore operating base for a regional logistics buyer; the seller reports transport, storage and equipment-rental operations, with an owner retirement sale.",
+      "angle_zh": "可作为区域物流买家在新加坡的运营基地；卖方称业务涵盖运输、仓储及设备租赁，并因业主退休出售。",
+      "checked_at": "2026-10-09T13:13:10Z"
+    },
+    {
+      "id": "SG-DW-002",
+      "industry": "International relocation",
+      "title_en": "Technology-led international relocation platform",
+      "title_zh": "科技驱动的国际搬迁平台",
+      "price": "S$1.95 million",
+      "revenue": "Not disclosed",
+      "ebitda": "Not disclosed",
+      "angle_en": "Potential cross-border services platform for a buyer serving China and ASEAN; the seller describes proprietary workflow software and an established operating team.",
+      "angle_zh": "可为服务中国及东盟客户的买家提供跨境服务平台；卖方称拥有自研业务流程软件及成熟运营团队。",
+      "checked_at": "2026-10-09T13:13:10Z"
+    },
+    {
+      "id": "SG-DW-003",
+      "industry": "Aviation engineering & mobility",
+      "title_en": "Aviation maintenance and mobility services business",
+      "title_zh": "航空维修与机动设备服务企业",
+      "price": "S$18 million (includes property and cash)",
+      "revenue": "S$10.2 million (FY2025)",
+      "ebitda": "Not disclosed",
+      "angle_en": "Potential acquisition for an engineering group expanding in ASEAN; the seller offers a retirement handover, with property inclusion and required customer approvals to be confirmed.",
+      "angle_zh": "可供寻求拓展东盟业务的工程集团评估；卖方因退休出售并提供交接，物业是否纳入及客户所需审批须确认。",
+      "checked_at": "2026-10-09T13:13:10Z"
+    },
+    {
+      "id": "SG-DW-004",
+      "industry": "Signage manufacturing",
+      "title_en": "Established custom signage manufacturer",
+      "title_zh": "成熟定制标识制造企业",
+      "price": "S$100,000 (negotiable)",
+      "revenue": "Not disclosed",
+      "ebitda": "Not disclosed",
+      "angle_en": "Potential small manufacturing foothold in Singapore; the seller reports S$55,000 monthly revenue, with equipment condition and ongoing customer demand to be confirmed.",
+      "angle_zh": "可作为新加坡小型制造业务的切入点；卖方称月营业额为5.5万新元，设备状况及持续客户需求须确认。",
+      "checked_at": "2026-10-09T13:13:10Z"
+    }
+  ]
+}
